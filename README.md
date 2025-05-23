@@ -1,4 +1,4 @@
-# Azure-Speech-Studio-e-Language-Studio
+# Azure Speech Studio e Language Studio
 
 
 ---
